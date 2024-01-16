@@ -1,0 +1,71 @@
+{
+  "query": "premier%20league",
+  "pageNumber": 1,
+  "lastPageNumber": 6,
+  "results": [
+    {
+      "id": "GB1",
+      "name": "Premier League",
+      "country": "England",
+      "clubs": "20",
+      "players": "572",
+      "totalMarketValue": "€10.98bn",
+      "meanMarketValue": "€549.11m",
+      "continent": "UEFA"
+    },
+
+    {
+      "id": "ES1",
+      "name": "LaLiga",
+      "country": "Spain",
+      "clubs": "20",
+      "players": "497",
+      "totalMarketValue": "€4.91bn",
+      "meanMarketValue": "€245.31m",
+      "continent": "UEFA"
+    },
+
+    {
+      "id": "FR1",
+      "name": "Ligue 1",
+      "country": "France",
+      "clubs": "18",
+      "players": "495",
+      "totalMarketValue": "€3.70bn",
+      "meanMarketValue": "€205.79m",
+      "continent": "UEFA"
+    },
+
+    {
+      "id": "IT1",
+      "name": "Serie A",
+      "country": "Italy",
+      "clubs": "20",
+      "players": "566",
+      "totalMarketValue": "€4.62bn",
+      "meanMarketValue": "€230.95m",
+      "continent": "UEFA"
+    },
+    
+    {
+      "id": "L1",
+      "name": "Bundesliga",
+      "country": "Germany",
+      "clubs": "18",
+      "players": "500",
+      "totalMarketValue": "€4.41bn",
+      "meanMarketValue": "€244.82m",
+      "continent": "UEFA"
+    },
+
+    {
+      "id": "BRA1",
+      "name": "Campeonato Brasileiro Serie A",
+      "country": "Brazil",
+      "clubs": "20",
+      "totalMarketValue": "€1.44bn",
+      "continent": "CONMEBOL"
+    }
+  ],
+  "updatedAt": "2024-01-16T23:06:52.176980"
+}
