@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "id": "131",
+      "name": "FC Barcelona",
+      "country": "Spain",
+      "squad": "22",
+      "marketValue": "€858.00m",
+      "leagueID": "ES1"
+    },
+
+    {
+
+      "id": "12321",
+      "name": "Girona FC",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€223.80m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "621",
+      "name": "Athletic Bilbao",
+      "country": "Spain",
+      "squad": "25",
+      "marketValue": "€243.40m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "418",
+      "name": "Real Madrid",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€1.04bn",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "13",
+      "name": "Atlético de Madrid",
+      "country": "Spain",
+      "squad": "25",
+      "marketValue": "€441.80m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "681",
+      "name": "Real Sociedad",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€467.60m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "150",
+      "name": "Real Betis Balompié",
+      "country": "Spain",
+      "squad": "27",
+      "marketValue": "€201.30m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "1049",
+      "name": "Valencia CF",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€198.30m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "472",
+      "name": "UD Las Palmas",
+      "country": "Spain",
+      "squad": "25",
+      "marketValue": "€70.40m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "3709",
+      "name": "Getafe CF",
+      "country": "Spain",
+      "squad": "25",
+      "marketValue": "€119.10m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "367",
+      "name": "Rayo Vallecano",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€73.80m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "331",
+      "name": "CA Osasuna",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€107.30m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "1108",
+      "name": "Deportivo Alavés",
+      "country": "Spain",
+      "squad": "23",
+      "marketValue": "€71.30m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "237",
+      "name": "RCD Mallorca",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€88.40m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "1050",
+      "name": "Villarreal CF",
+      "country": "Spain",
+      "squad": "25",
+      "marketValue": "€184.10m",
+      "leagueID": "ES1"
+    }
+
+    {
+      "id": "940",
+      "name": "Celta de Vigo",
+      "country": "Spain",
+      "squad": "24",
+      "marketValue": "€105.50m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "368",
+      "name": "Sevilla FC",
+      "country": "Spain",
+      "squad": "29",
+      "marketValue": "€189.40m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "2687",
+      "name": "Cádiz CF",
+      "country": "Spain",
+      "squad": "27",
+      "marketValue": "€52.80m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "16795",
+      "name": "Granada CF",
+      "country": "Spain",
+      "squad": "25",
+      "marketValue": "€81.30m",
+      "leagueID": "ES1"
+    },
+
+    {
+      "id": "3302",
+      "name": "UD Almería",
+      "country": "Spain",
+      "squad": "26",
+      "marketValue": "€89.00m",
+      "leagueID": "ES1"
+    }
+  ],
+  "updatedAt": "2024-01-17T12:31:41.029501"
+}
