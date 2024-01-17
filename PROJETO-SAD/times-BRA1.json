@@ -5,7 +5,8 @@
         "name": "Sociedade Esportiva Palmeiras",
         "country": "Brazil",
         "squad": "34",
-        "marketValue": "€214.08m"
+        "marketValue": "€214.08m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -13,7 +14,8 @@
         "name": "CR Flamengo",
         "country": "Brazil",
         "squad": "28",
-        "marketValue": "€174.00m"
+        "marketValue": "€174.00m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -21,7 +23,8 @@
         "name": "Sport Club Corinthians Paulista",
         "country": "Brazil",
         "squad": "30",
-        "marketValue": "€113.85m"
+        "marketValue": "€113.85m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -29,16 +32,17 @@
         "name": "Fluminense Football Club",
         "country": "Brazil",
         "squad": "37",
-        "marketValue": "€101.40m"
+        "marketValue": "€101.40m",
+        "leagueID": "BRA1"
       },
   
       {
         "id": "585",
-        "url": "/fc-sao-paulo/startseite/verein/585",
         "name": "São Paulo Futebol Clube",
         "country": "Brazil",
         "squad": "36",
-        "marketValue": "€92.10m"
+        "marketValue": "€92.10m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -46,7 +50,8 @@
         "name": "Clube Atlético Mineiro",
         "country": "Brazil",
         "squad": "33",
-        "marketValue": "€86.45m"
+        "marketValue": "€86.45m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -54,7 +59,8 @@
         "name": "Red Bull Bragantino",
         "country": "Brazil",
         "squad": "34",
-        "marketValue": "€81.10m"
+        "marketValue": "€81.10m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -62,7 +68,8 @@
         "name": "Sport Club Internacional",
         "country": "Brazil",
         "squad": "33",
-        "marketValue": "€80.15m"
+        "marketValue": "€80.15m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -70,7 +77,8 @@
         "name": "Grêmio Foot-Ball Porto Alegrense",
         "country": "Brazil",
         "squad": "33",
-        "marketValue": "€77.00m"
+        "marketValue": "€77.00m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -78,7 +86,8 @@
         "name": "Clube de Regatas Vasco da Gama",
         "country": "Brazil",
         "squad": "32",
-        "marketValue": "€72.25m"
+        "marketValue": "€72.25m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -86,7 +95,8 @@
         "name": "Club Athletico Paranaense",
         "country": "Brazil",
         "squad": "36",
-        "marketValue": "€69.85m"
+        "marketValue": "€69.85m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -94,7 +104,8 @@
         "name": "Cruzeiro Esporte Clube",
         "country": "Brazil",
         "squad": "36",
-        "marketValue": "€60.70m"
+        "marketValue": "€60.70m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -102,7 +113,8 @@
         "name": "Botafogo de Futebol e Regatas",
         "country": "Brazil",
         "squad": "31",
-        "marketValue": "€60.60m"
+        "marketValue": "€60.60m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -110,7 +122,8 @@
         "name": "Esporte Clube Bahia",
         "country": "Brazil",
         "squad": "27",
-        "marketValue": "€48.10m"
+        "marketValue": "€48.10m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -118,7 +131,8 @@
         "name": "Fortaleza Esporte Clube",
         "country": "Brazil",
         "squad": "29",
-        "marketValue": "€38.15m"
+        "marketValue": "€38.15m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -126,7 +140,8 @@
         "name": "Cuiabá Esporte Clube (MT)",
         "country": "Brazil",
         "squad": "25",
-        "marketValue": "€22.05m"
+        "marketValue": "€22.05m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -134,7 +149,8 @@
         "name": "Esporte Clube Vitória",
         "country": "Brazil",
         "squad": "29",
-        "marketValue": "€17.88m"
+        "marketValue": "€17.88m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -142,7 +158,8 @@
         "name": "Esporte Clube Juventude",
         "country": "Brazil",
         "squad": "29",
-        "marketValue": "€16.00m"
+        "marketValue": "€16.00m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -150,7 +167,8 @@
         "name": "Atlético Clube Goianiense",
         "country": "Brazil",
         "squad": "27",
-        "marketValue": "€10.50m"
+        "marketValue": "€10.50m",
+        "leagueID": "BRA1"
       },
   
       {
@@ -158,7 +176,8 @@
         "name": "Criciúma Esporte Clube",
         "country": "Brazil",
         "squad": "20",
-        "marketValue": "€7.58m"
+        "marketValue": "€7.58m",
+        "leagueID": "BRA1"
       }
     ],
     "updatedAt": "2024-01-17T00:34:27.403689"
