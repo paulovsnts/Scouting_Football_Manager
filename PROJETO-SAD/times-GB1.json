@@ -6,6 +6,158 @@
       "country": "England",
       "squad": "28",
       "marketValue": "€874.60m"
+    },
+
+    {
+      "id": "11",
+      "name": "Arsenal FC",
+      "country": "England",
+      "squad": "26",
+      "marketValue": "€1.12bn"
+    },
+
+    {
+      "id": "281",
+      "name": "Manchester City",
+      "country": "England",
+      "squad": "24",
+      "marketValue": "€1.29bn"
+    },
+
+    {
+      "id": "405",
+      "name": "Aston Villa",
+      "country": "England",
+      "squad": "26",
+      "marketValue": "€638.50m"
+    },
+
+    {
+      "id": "148",
+      "name": "Tottenham Hotspur",
+      "country": "England",
+      "squad": "30",
+      "marketValue": "€787.80m"
+    },
+
+    {
+      "id": "379",
+      "name": "West Ham United",
+      "country": "England",
+      "squad": "23",
+      "marketValue": "€451.60m"
+    },
+
+    {
+      "id": "985",
+      "name": "Manchester United",
+      "country": "England",
+      "squad": "28",
+      "marketValue": "€746.25m"
+    },
+
+    {
+      "id": "1237",
+      "name": "Brighton & Hove Albion",
+      "country": "England",
+      "squad": "28",
+      "marketValue": "€490.60m"
+    },
+
+    {
+      "id": "631",
+      "name": "Chelsea FC",
+      "country": "England",
+      "squad": "34",
+      "marketValue": "€977.50m"
+    },
+
+    {
+      "id": "762",
+      "name": "Newcastle United",
+      "country": "England",
+      "squad": "30",
+      "marketValue": "€643.70m"
+    },
+
+    {
+      "id": "543",
+      "name": "Wolverhampton Wanderers",
+      "country": "England",
+      "squad": "25",
+      "marketValue": "€316.50m"
+    },
+
+    {
+      "id": "989",
+      "name": "AFC Bournemouth",
+      "country": "England",
+      "squad": "29",
+      "marketValue": "€333.10m"
+    },
+
+    {
+      "id": "931",
+      "name": "Fulham FC",
+      "country": "England",
+      "squad": "25",
+      "marketValue": "€313.50m"
+    },
+
+    {
+      "id": "873",
+      "name": "Crystal Palace",
+      "country": "England",
+      "squad": "28",
+      "marketValue": "€368.90m"
+    },
+
+    {
+      "id": "703",
+      "name": "Nottingham Forest",
+      "country": "England",
+      "squad": "35",
+      "marketValue": "€389.75m"
+    },
+
+    {
+      "id": "1148",
+      "name": "Brentford FC",
+      "country": "England",
+      "squad": "31",
+      "marketValue": "€397.18m"
+    },
+
+    {
+      "id": "29",
+      "name": "Everton FC",
+      "country": "England",
+      "squad": "25",
+      "marketValue": "€336.90m"
+    },
+
+    {
+      "id": "1031",
+      "name": "Luton Town",
+      "country": "England",
+      "squad": "30",
+      "marketValue": "€104.38m"
+    },
+
+    {
+      "id": "1132",
+      "name": "Burnley FC",
+      "country": "England",
+      "squad": "34",
+      "marketValue": "€260.65m"
+    },
+
+    {
+      "id": "350",
+      "name": "Sheffield United",
+      "country": "England",
+      "squad": "31",
+      "marketValue": "€137.95m"
     }
   ],
   "updatedAt": "2024-01-17T00:34:27.403689"
