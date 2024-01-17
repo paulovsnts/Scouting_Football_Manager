@@ -5,7 +5,8 @@
       "name": "Liverpool FC",
       "country": "England",
       "squad": "28",
-      "marketValue": "€874.60m"
+      "marketValue": "€874.60m",
+      "leagueID": "GB1"
     },
 
     {
@@ -13,7 +14,8 @@
       "name": "Arsenal FC",
       "country": "England",
       "squad": "26",
-      "marketValue": "€1.12bn"
+      "marketValue": "€1.12bn",
+      "leagueID": "GB1"
     },
 
     {
@@ -21,7 +23,8 @@
       "name": "Manchester City",
       "country": "England",
       "squad": "24",
-      "marketValue": "€1.29bn"
+      "marketValue": "€1.29bn",
+      "leagueID": "GB1"
     },
 
     {
@@ -29,7 +32,8 @@
       "name": "Aston Villa",
       "country": "England",
       "squad": "26",
-      "marketValue": "€638.50m"
+      "marketValue": "€638.50m",
+      "leagueID": "GB1"
     },
 
     {
@@ -37,7 +41,8 @@
       "name": "Tottenham Hotspur",
       "country": "England",
       "squad": "30",
-      "marketValue": "€787.80m"
+      "marketValue": "€787.80m",
+      "leagueID": "GB1"
     },
 
     {
@@ -45,7 +50,8 @@
       "name": "West Ham United",
       "country": "England",
       "squad": "23",
-      "marketValue": "€451.60m"
+      "marketValue": "€451.60m",
+      "leagueID": "GB1"
     },
 
     {
@@ -53,7 +59,8 @@
       "name": "Manchester United",
       "country": "England",
       "squad": "28",
-      "marketValue": "€746.25m"
+      "marketValue": "€746.25m",
+      "leagueID": "GB1"
     },
 
     {
@@ -61,7 +68,8 @@
       "name": "Brighton & Hove Albion",
       "country": "England",
       "squad": "28",
-      "marketValue": "€490.60m"
+      "marketValue": "€490.60m",
+      "leagueID": "GB1"
     },
 
     {
@@ -69,7 +77,8 @@
       "name": "Chelsea FC",
       "country": "England",
       "squad": "34",
-      "marketValue": "€977.50m"
+      "marketValue": "€977.50m",
+      "leagueID": "GB1"
     },
 
     {
@@ -77,7 +86,8 @@
       "name": "Newcastle United",
       "country": "England",
       "squad": "30",
-      "marketValue": "€643.70m"
+      "marketValue": "€643.70m",
+      "leagueID": "GB1"
     },
 
     {
@@ -85,7 +95,8 @@
       "name": "Wolverhampton Wanderers",
       "country": "England",
       "squad": "25",
-      "marketValue": "€316.50m"
+      "marketValue": "€316.50m",
+      "leagueID": "GB1"
     },
 
     {
@@ -93,7 +104,8 @@
       "name": "AFC Bournemouth",
       "country": "England",
       "squad": "29",
-      "marketValue": "€333.10m"
+      "marketValue": "€333.10m",
+      "leagueID": "GB1"
     },
 
     {
@@ -101,7 +113,8 @@
       "name": "Fulham FC",
       "country": "England",
       "squad": "25",
-      "marketValue": "€313.50m"
+      "marketValue": "€313.50m",
+      "leagueID": "GB1"
     },
 
     {
@@ -109,7 +122,8 @@
       "name": "Crystal Palace",
       "country": "England",
       "squad": "28",
-      "marketValue": "€368.90m"
+      "marketValue": "€368.90m",
+      "leagueID": "GB1"
     },
 
     {
@@ -117,7 +131,8 @@
       "name": "Nottingham Forest",
       "country": "England",
       "squad": "35",
-      "marketValue": "€389.75m"
+      "marketValue": "€389.75m",
+      "leagueID": "GB1"
     },
 
     {
@@ -125,7 +140,8 @@
       "name": "Brentford FC",
       "country": "England",
       "squad": "31",
-      "marketValue": "€397.18m"
+      "marketValue": "€397.18m",
+      "leagueID": "GB1"
     },
 
     {
@@ -133,7 +149,8 @@
       "name": "Everton FC",
       "country": "England",
       "squad": "25",
-      "marketValue": "€336.90m"
+      "marketValue": "€336.90m",
+      "leagueID": "GB1"
     },
 
     {
@@ -141,7 +158,8 @@
       "name": "Luton Town",
       "country": "England",
       "squad": "30",
-      "marketValue": "€104.38m"
+      "marketValue": "€104.38m",
+      "leagueID": "GB1"
     },
 
     {
@@ -149,7 +167,8 @@
       "name": "Burnley FC",
       "country": "England",
       "squad": "34",
-      "marketValue": "€260.65m"
+      "marketValue": "€260.65m",
+      "leagueID": "GB1"
     },
 
     {
@@ -157,7 +176,8 @@
       "name": "Sheffield United",
       "country": "England",
       "squad": "31",
-      "marketValue": "€137.95m"
+      "marketValue": "€137.95m",
+      "leagueID": "GB1"
     }
   ],
   "updatedAt": "2024-01-17T00:34:27.403689"
