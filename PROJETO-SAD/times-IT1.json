@@ -1,0 +1,173 @@
+{
+    "results": [
+      {
+        "id": "46",
+        "name": "Inter Milan",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€588.85m"
+      },
+
+      {
+        "id": "5",
+        "name": "AC Milan",
+        "country": "Italy",
+        "squad": "29",
+        "marketValue": "€532.45m"
+      },
+
+      {
+        "id": "6195",
+        "name": "SSC Napoli",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€514.25m"
+      },
+
+      {
+        "id": "506",
+        "name": "Juventus FC",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€424.20m"
+      },
+
+      {
+        "id": "800",
+        "name": "Atalanta BC",
+        "country": "Italy",
+        "squad": "26",
+        "marketValue": "€335.10m"
+      },
+
+      {
+        "id": "12",
+        "name": "AS Roma",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€325.65m"
+      },
+
+      {
+        "id": "430",
+        "name": "ACF Fiorentina",
+        "country": "Italy",
+        "squad": "31",
+        "marketValue": "€252.40m"
+      },
+
+      {
+        "id": "398",
+        "name": "SS Lazio",
+        "country": "Italy",
+        "squad": "29",
+        "marketValue": "€245.13m"
+      },
+      
+      {
+        "id": "398",
+        "name": "SS Lazio",
+        "country": "Italy",
+        "squad": "29",
+        "marketValue": "€245.13m"
+      },
+
+      {
+        "id": "1025",
+        "name": "Bologna FC 1909",
+        "country": "Italy",
+        "squad": "26",
+        "marketValue": "€201.05m"
+      },
+
+      {
+        "id": "416",
+        "name": "Torino FC",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€178.30m"
+      },
+
+      {
+        "id": "6574",
+        "name": "US Sassuolo",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€157.90m"
+      },
+
+      {
+        "id": "410",
+        "name": "Udinese Calcio",
+        "country": "Italy",
+        "squad": "37",
+        "marketValue": "€150.43m"
+      },
+
+      {
+        "id": "2919",
+        "name": "AC Monza",
+        "country": "Italy",
+        "squad": "30",
+        "marketValue": "€112.40m"
+      },
+
+      {
+        "id": "252",
+        "name": "Genoa CFC",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€107.35m"
+      },
+
+      {
+        "id": "8970",
+        "name": "Frosinone Calcio",
+        "country": "Italy",
+        "squad": "30",
+        "marketValue": "€95.35m"
+      },
+
+      {
+        "id": "1005",
+        "name": "US Lecce",
+        "country": "Italy",
+        "squad": "31",
+        "marketValue": "€89.73m"
+      },
+
+      {
+        "id": "380",
+        "name": "US Salernitana 1919",
+        "country": "Italy",
+        "squad": "29",
+        "marketValue": "€86.90m"
+      },
+
+      {
+        "id": "749",
+        "name": "FC Empoli",
+        "country": "Italy",
+        "squad": "29",
+        "marketValue": "€82.90m"
+      },
+
+      {
+        "id": "1390",
+        "name": "Cagliari Calcio",
+        "country": "Italy",
+        "squad": "30",
+        "marketValue": "€76.98m"
+      },
+
+      {
+        "id": "276",
+        "name": "Hellas Verona",
+        "country": "Italy",
+        "squad": "28",
+        "marketValue": "€63.68m"
+      }
+    
+    ],
+    "updatedAt": "2024-01-17T12:55:05.945079"
+  }
