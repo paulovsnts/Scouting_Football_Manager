@@ -136,30 +136,18 @@ WITH (
 
 SELECT * FROM TB_LIGA
 
-DECLARE @j_time VARCHAR(MAX) = (SELECT BULKCOLUMN FROM OPENROWSET (BULK 'C:\Users\Natan\Desktop\PROJETO-SAD\times-GB1.json', SINGLE_CLOB) A)
+DECLARE @j_time VARCHAR(MAX) = (SELECT BULKCOLUMN FROM OPENROWSET (BULK 'C:\Users\Natan\Desktop\PROJETO-SAD\times.json', SINGLE_CLOB) A)
 
-INSERT INTO TB_TIME (ID_TIME, NOME_TIME, PAIS, NR_JOGADORES, VALOR_MERCADO)
-SELECT id, name, country, squad, marketValue
+INSERT INTO TB_TIME (ID_TIME, NOME_TIME, PAIS, NR_JOGADORES, VALOR_MERCADO, COD_LIGA)
+SELECT id, name, country, squad, marketValue, leagueID
 FROM OPENJSON(@j_time, '$.results')
 WITH (
     id VARCHAR(10),
     name VARCHAR(50),
     country VARCHAR(20),
     squad INT,
-    marketValue VARCHAR(20)
-);
-
-DECLARE @j_time VARCHAR(MAX) = (SELECT BULKCOLUMN FROM OPENROWSET (BULK 'C:\Users\Natan\Desktop\PROJETO-SAD\times-BRA1.json', SINGLE_CLOB) A)
-
-INSERT INTO TB_TIME (ID_TIME, NOME_TIME, PAIS, NR_JOGADORES, VALOR_MERCADO)
-SELECT id, name, country, squad, marketValue
-FROM OPENJSON(@j_time, '$.results')
-WITH (
-    id VARCHAR(10),
-    name VARCHAR(50),
-    country VARCHAR(20),
-    squad INT,
-    marketValue VARCHAR(20)
+    marketValue VARCHAR(20),
+    leagueID VARCHAR(10)
 );
 
 SELECT * FROM TB_TIME
