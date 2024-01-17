@@ -5,7 +5,8 @@
         "name": "Paris Saint-Germain",
         "country": "France",
         "squad": "30",
-        "marketValue": "€1.05bn"
+        "marketValue": "€1.05bn",
+        "leagueID": "FR1"
       },
 
       {
@@ -13,7 +14,8 @@
         "name": "AS Monaco",
         "country": "Monaco",
         "squad": "27",
-        "marketValue": "€352.20m"
+        "marketValue": "€352.20m",
+        "leagueID": "FR1"
       },
 
       {
@@ -21,7 +23,8 @@
         "name": "OGC Nice",
         "country": "France",
         "squad": "31",
-        "marketValue": "€269.40m"
+        "marketValue": "€269.40m",
+        "leagueID": "FR1"
       },
 
       {
@@ -29,7 +32,8 @@
         "name": "Stade Rennais FC",
         "country": "France",
         "squad": "25",
-        "marketValue": "€258.85m"
+        "marketValue": "€258.85m",
+        "leagueID": "FR1"
       },
 
       {
@@ -37,7 +41,8 @@
         "name": "Olympique Marseille",
         "country": "France",
         "squad": "28",
-        "marketValue": "€256.85m"
+        "marketValue": "€256.85m",
+        "leagueID": "FR1"
       },
 
       {
@@ -45,7 +50,8 @@
         "name": "LOSC Lille",
         "country": "France",
         "squad": "24",
-        "marketValue": "€233.00m"
+        "marketValue": "€233.00m",
+        "leagueID": "FR1"
       },
 
       {
@@ -53,7 +59,8 @@
         "name": "RC Lens",
         "country": "France",
         "squad": "30",
-        "marketValue": "€210.65m"
+        "marketValue": "€210.65m",
+        "leagueID": "FR1"
       },
 
       {
@@ -61,7 +68,8 @@
         "name": "Olympique Lyon",
         "country": "France",
         "squad": "27",
-        "marketValue": "€181.80m"
+        "marketValue": "€181.80m",
+        "leagueID": "FR1"
       },
       
       {
@@ -69,7 +77,8 @@
         "name": "RC Strasbourg Alsace",
         "country": "France",
         "squad": "27",
-        "marketValue": "€124.35m"
+        "marketValue": "€124.35m",
+        "leagueID": "FR1"
       },
 
       {
@@ -77,7 +86,8 @@
         "name": "Stade Reims",
         "country": "France",
         "squad": "24",
-        "marketValue": "€120.00m"
+        "marketValue": "€120.00m",
+        "leagueID": "FR1"
       },
 
       {
@@ -85,7 +95,8 @@
         "name": "FC Lorient",
         "country": "France",
         "squad": "30",
-        "marketValue": "€115.55m"
+        "marketValue": "€115.55m",
+        "leagueID": "FR1"
       },
 
       {
@@ -93,7 +104,8 @@
         "name": "FC Nantes",
         "country": "France",
         "squad": "29",
-        "marketValue": "€108.05m"
+        "marketValue": "€108.05m",
+        "leagueID": "FR1"
       },
 
       {
@@ -101,7 +113,8 @@
         "name": "Montpellier HSC",
         "country": "France",
         "squad": "25",
-        "marketValue": "€101.65m"
+        "marketValue": "€101.65m",
+        "leagueID": "FR1"
       },
 
       {
@@ -109,7 +122,8 @@
         "name": "FC Toulouse",
         "country": "France",
         "squad": "31",
-        "marketValue": "€86.65m"
+        "marketValue": "€86.65m",
+        "leagueID": "FR1"
       },
 
       {
@@ -117,7 +131,8 @@
         "name": "Stade Brestois 29",
         "country": "France",
         "squad": "24",
-        "marketValue": "€80.65m"
+        "marketValue": "€80.65m",
+        "leagueID": "FR1"
       },
 
       {
@@ -125,7 +140,8 @@
         "name": "Le Havre AC",
         "country": "France",
         "squad": "29",
-        "marketValue": "€60.75m"
+        "marketValue": "€60.75m",
+        "leagueID": "FR1"
       },
 
       {
@@ -133,7 +149,8 @@
         "name": "Clermont Foot 63",
         "country": "France",
         "squad": "24",
-        "marketValue": "€51.40m"
+        "marketValue": "€51.40m",
+        "leagueID": "FR1"
       },
 
       {
@@ -141,7 +158,8 @@
         "name": "FC Metz",
         "country": "France",
         "squad": "29",
-        "marketValue": "€45.60m"
+        "marketValue": "€45.60m",
+        "leagueID": "FR1"
       }
     
     ],
