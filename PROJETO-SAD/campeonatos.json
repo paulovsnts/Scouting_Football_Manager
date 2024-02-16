@@ -5,9 +5,8 @@
       "name": "Premier League",
       "country": "England",
       "clubs": "20",
-      "players": "572",
-      "totalMarketValue": "€10.98bn",
-      "meanMarketValue": "€549.11m",
+      "totalMarketValue": "€10.85bn",
+      "meanMarketValue": "€542.41m",
       "continent": "UEFA"
     },
 
@@ -16,9 +15,8 @@
       "name": "LaLiga",
       "country": "Spain",
       "clubs": "20",
-      "players": "497",
-      "totalMarketValue": "€4.91bn",
-      "meanMarketValue": "€245.31m",
+      "totalMarketValue": "€4.97bn",
+      "meanMarketValue": "€248.29m",
       "continent": "UEFA"
     },
 
@@ -27,9 +25,8 @@
       "name": "Ligue 1",
       "country": "France",
       "clubs": "18",
-      "players": "495",
-      "totalMarketValue": "€3.70bn",
-      "meanMarketValue": "€205.79m",
+      "totalMarketValue": "€3.62bn",
+      "meanMarketValue": "€201.08m",
       "continent": "UEFA"
     },
 
@@ -38,9 +35,8 @@
       "name": "Serie A",
       "country": "Italy",
       "clubs": "20",
-      "players": "566",
-      "totalMarketValue": "€4.62bn",
-      "meanMarketValue": "€230.95m",
+      "totalMarketValue": "€4.65bn",
+      "meanMarketValue": "€232.27m",
       "continent": "UEFA"
     },
     
@@ -49,20 +45,20 @@
       "name": "Bundesliga",
       "country": "Germany",
       "clubs": "18",
-      "players": "500",
-      "totalMarketValue": "€4.41bn",
-      "meanMarketValue": "€244.82m",
+      "totalMarketValue": "€4.45bn",
+      "meanMarketValue": "€247.08m",
       "continent": "UEFA"
     },
 
     {
       "id": "BRA1",
-      "name": "Campeonato Brasileiro Serie A",
+      "name": "Campeonato Brasileiro Série A",
       "country": "Brazil",
       "clubs": "20",
-      "totalMarketValue": "€1.44bn",
+      "totalMarketValue": "€1.46bn",
+      "meanMarketValue": "€73.13m",
       "continent": "CONMEBOL"
     }
   ],
-  "updatedAt": "2024-01-16T23:06:52.176980"
+  "updatedAt": "2024-02-16T18:37:25.310241"
 }
