@@ -572,8 +572,8 @@
         "id": "379",
         "name": "West Ham United",
         "country": "England",
-        "squad": "23",
-        "marketValue": "€451.60m",
+        "squad": "22",
+        "marketValue": "€440.60m",
         "leagueID": "GB1"
       },
   
@@ -590,8 +590,8 @@
         "id": "1237",
         "name": "Brighton & Hove Albion",
         "country": "England",
-        "squad": "28",
-        "marketValue": "€490.60m",
+        "squad": "27",
+        "marketValue": "€487.10m",
         "leagueID": "GB1"
       },
   
@@ -599,8 +599,8 @@
         "id": "631",
         "name": "Chelsea FC",
         "country": "England",
-        "squad": "34",
-        "marketValue": "€977.50m",
+        "squad": "31",
+        "marketValue": "€948.10m",
         "leagueID": "GB1"
       },
   
@@ -608,8 +608,8 @@
         "id": "762",
         "name": "Newcastle United",
         "country": "England",
-        "squad": "30",
-        "marketValue": "€643.70m",
+        "squad": "28",
+        "marketValue": "€638.70m",
         "leagueID": "GB1"
       },
   
@@ -617,8 +617,8 @@
         "id": "543",
         "name": "Wolverhampton Wanderers",
         "country": "England",
-        "squad": "25",
-        "marketValue": "€316.50m",
+        "squad": "22",
+        "marketValue": "€302.70m",
         "leagueID": "GB1"
       },
   
@@ -626,8 +626,8 @@
         "id": "989",
         "name": "AFC Bournemouth",
         "country": "England",
-        "squad": "29",
-        "marketValue": "€333.10m",
+        "squad": "26",
+        "marketValue": "€341.80m",
         "leagueID": "GB1"
       },
   
@@ -635,8 +635,8 @@
         "id": "931",
         "name": "Fulham FC",
         "country": "England",
-        "squad": "25",
-        "marketValue": "€313.50m",
+        "squad": "24",
+        "marketValue": "€335.00m",
         "leagueID": "GB1"
       },
   
@@ -644,8 +644,8 @@
         "id": "873",
         "name": "Crystal Palace",
         "country": "England",
-        "squad": "28",
-        "marketValue": "€368.90m",
+        "squad": "29",
+        "marketValue": "€385.90m",
         "leagueID": "GB1"
       },
   
@@ -653,8 +653,8 @@
         "id": "703",
         "name": "Nottingham Forest",
         "country": "England",
-        "squad": "35",
-        "marketValue": "€389.75m",
+        "squad": "29",
+        "marketValue": "€362.15m",
         "leagueID": "GB1"
       },
   
@@ -662,8 +662,8 @@
         "id": "1148",
         "name": "Brentford FC",
         "country": "England",
-        "squad": "31",
-        "marketValue": "€397.18m",
+        "squad": "30",
+        "marketValue": "€407.18m",
         "leagueID": "GB1"
       },
   
@@ -680,8 +680,8 @@
         "id": "1031",
         "name": "Luton Town",
         "country": "England",
-        "squad": "30",
-        "marketValue": "€104.38m",
+        "squad": "28",
+        "marketValue": "€101.60m",
         "leagueID": "GB1"
       },
   
@@ -689,8 +689,8 @@
         "id": "1132",
         "name": "Burnley FC",
         "country": "England",
-        "squad": "34",
-        "marketValue": "€260.65m",
+        "squad": "29",
+        "marketValue": "€253.10m",
         "leagueID": "GB1"
       },
   
@@ -698,206 +698,197 @@
         "id": "350",
         "name": "Sheffield United",
         "country": "England",
-        "squad": "31",
-        "marketValue": "€137.95m",
+        "squad": "29",
+        "marketValue": "€146.75m",
         "leagueID": "GB1"
       },
   
-            {
-          "id": "46",
-          "name": "Inter Milan",
-          "country": "Italy",
-          "squad": "25",
-          "marketValue": "€588.85m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "46",
+        "name": "Inter Milan",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€588.85m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "5",
-          "name": "AC Milan",
-          "country": "Italy",
-          "squad": "29",
-          "marketValue": "€532.45m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "5",
+        "name": "AC Milan",
+        "country": "Italy",
+        "squad": "26",
+        "marketValue": "€524.45m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "6195",
-          "name": "SSC Napoli",
-          "country": "Italy",
-          "squad": "27",
-          "marketValue": "€514.25m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "6195",
+        "name": "SSC Napoli",
+        "country": "Italy",
+        "squad": "26",
+        "marketValue": "€535.15m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "506",
-          "name": "Juventus FC",
-          "country": "Italy",
-          "squad": "25",
-          "marketValue": "€424.20m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "506",
+        "name": "Juventus FC",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€454.20m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "800",
-          "name": "Atalanta BC",
-          "country": "Italy",
-          "squad": "26",
-          "marketValue": "€335.10m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "800",
+        "name": "Atalanta BC",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€330.60m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "12",
-          "name": "AS Roma",
-          "country": "Italy",
-          "squad": "27",
-          "marketValue": "€325.65m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "12",
+        "name": "AS Roma",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€335.15m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "430",
-          "name": "ACF Fiorentina",
-          "country": "Italy",
-          "squad": "31",
-          "marketValue": "€252.40m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "430",
+        "name": "ACF Fiorentina",
+        "country": "Italy",
+        "squad": "28",
+        "marketValue": "€246.90m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "398",
-          "name": "SS Lazio",
-          "country": "Italy",
-          "squad": "29",
-          "marketValue": "€245.13m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "398",
+        "name": "SS Lazio",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€241.13m",
+        "leagueID": "IT1"
+      },
         
-        {
-          "id": "398",
-          "name": "SS Lazio",
-          "country": "Italy",
-          "squad": "29",
-          "marketValue": "€245.13m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "1025",
+        "name": "Bologna FC 1909",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€208.55m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "1025",
-          "name": "Bologna FC 1909",
-          "country": "Italy",
-          "squad": "26",
-          "marketValue": "€201.05m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "416",
+        "name": "Torino FC",
+        "country": "Italy",
+        "squad": "25",
+        "marketValue": "€169.40m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "416",
-          "name": "Torino FC",
-          "country": "Italy",
-          "squad": "25",
-          "marketValue": "€178.30m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "6574",
+        "name": "US Sassuolo",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€156.40m,
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "6574",
-          "name": "US Sassuolo",
-          "country": "Italy",
-          "squad": "27",
-          "marketValue": "€157.90m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "410",
+        "name": "Udinese Calcio",
+        "country": "Italy",
+        "squad": "29",
+        "marketValue": "€135.20m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "410",
-          "name": "Udinese Calcio",
-          "country": "Italy",
-          "squad": "37",
-          "marketValue": "€150.43m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "2919",
+        "name": "AC Monza",
+        "country": "Italy",
+        "squad": "30",
+        "marketValue": "€115.00m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "2919",
-          "name": "AC Monza",
-          "country": "Italy",
-          "squad": "30",
-          "marketValue": "€112.40m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "252",
+        "name": "Genoa CFC",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€124.95m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "252",
-          "name": "Genoa CFC",
-          "country": "Italy",
-          "squad": "25",
-          "marketValue": "€107.35m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "8970",
+        "name": "Frosinone Calcio",
+        "country": "Italy",
+        "squad": "33",
+        "marketValue": "€101.55m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "8970",
-          "name": "Frosinone Calcio",
-          "country": "Italy",
-          "squad": "30",
-          "marketValue": "€95.35m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "1005",
+        "name": "US Lecce",
+        "country": "Italy",
+        "squad": "28",
+        "marketValue": "€81.33m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "1005",
-          "name": "US Lecce",
-          "country": "Italy",
-          "squad": "31",
-          "marketValue": "€89.73m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "380",
+        "name": "US Salernitana 1919",
+        "country": "Italy",
+        "squad": "31",
+        "marketValue": "€84.90m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "380",
-          "name": "US Salernitana 1919",
-          "country": "Italy",
-          "squad": "29",
-          "marketValue": "€86.90m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "749",
+        "name": "FC Empoli",
+        "country": "Italy",
+        "squad": "28",
+        "marketValue": "€69.30m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "749",
-          "name": "FC Empoli",
-          "country": "Italy",
-          "squad": "29",
-          "marketValue": "€82.90m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "1390",
+        "name": "Cagliari Calcio",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€81.98m",
+        "leagueID": "IT1"
+      },
   
-        {
-          "id": "1390",
-          "name": "Cagliari Calcio",
-          "country": "Italy",
-          "squad": "30",
-          "marketValue": "€76.98m",
-          "leagueID": "IT1"
-        },
-  
-        {
-          "id": "276",
-          "name": "Hellas Verona",
-          "country": "Italy",
-          "squad": "28",
-          "marketValue": "€63.68m",
-          "leagueID": "IT1"
-        },
+      {
+        "id": "276",
+        "name": "Hellas Verona",
+        "country": "Italy",
+        "squad": "27",
+        "marketValue": "€60.48m",
+        "leagueID": "IT1"
+      },
       
-          {
+      {
         "id": "15",
         "name": "Bayer 04 Leverkusen",
         "country": "Germany",
         "squad": "27",
-        "marketValue": "€562.55m",
+        "marketValue": "€566.55m",
         "leagueID": "L1"
       },
   
@@ -905,8 +896,8 @@
         "id": "27",
         "name": "Bayern Munich",
         "country": "Germany",
-        "squad": "26",
-        "marketValue": "€943.95m",
+        "squad": "27",
+        "marketValue": "€976.45m",
         "leagueID": "L1"
       },
   
@@ -915,7 +906,7 @@
         "name": "VfB Stuttgart",
         "country": "Germany",
         "squad": "28",
-        "marketValue": "€222.90m",
+        "marketValue": "€236.40m",
         "leagueID": "L1"
       },
   
@@ -923,8 +914,8 @@
         "id": "23826",
         "name": "RB Leipzig",
         "country": "Germany",
-        "squad": "25",
-        "marketValue": "€489.60m",
+        "squad": "24",
+        "marketValue": "€483.60m",
         "leagueID": "L1"
       },
   
@@ -932,8 +923,8 @@
         "id": "16",
         "name": "Borussia Dortmund",
         "country": "Germany",
-        "squad": "32",
-        "marketValue": "€488.40m",
+        "squad": "28",
+        "marketValue": "€464.90m",
         "leagueID": "L1"
       },
   
@@ -941,8 +932,8 @@
         "id": "24",
         "name": "Eintracht Frankfurt",
         "country": "Germany",
-        "squad": "28",
-        "marketValue": "€226.40m",
+        "squad": "34",
+        "marketValue": "€231.75m",
         "leagueID": "L1"
       },
   
@@ -950,8 +941,8 @@
         "id": "60",
         "name": "SC Freiburg",
         "country": "Germany",
-        "squad": "25",
-        "marketValue": "€176.70m",
+        "squad": "27",
+        "marketValue": "€189.20m",
         "leagueID": "L1"
       },
   
@@ -959,8 +950,8 @@
         "id": "533",
         "name": "TSG 1899 Hoffenheim",
         "country": "Germany",
-        "squad": "29",
-        "marketValue": "€139.60m",
+        "squad": "27",
+        "marketValue": "€133.65m",
         "leagueID": "L1"
       },
   
@@ -977,8 +968,8 @@
         "id": "18",
         "name": "Borussia Mönchengladbach",
         "country": "Germany",
-        "squad": "32",
-        "marketValue": "€203.08m",
+        "squad": "31",
+        "marketValue": "€201.08m",
         "leagueID": "L1"
       },
   
@@ -986,8 +977,8 @@
         "id": "82",
         "name": "VfL Wolfsburg",
         "country": "Germany",
-        "squad": "28",
-        "marketValue": "€245.20m",
+        "squad": "27",
+        "marketValue": "€245.70m",
         "leagueID": "L1"
       },
   
@@ -995,8 +986,8 @@
         "id": "167",
         "name": "FC Augsburg",
         "country": "Germany",
-        "squad": "29",
-        "marketValue": "€115.65m",
+        "squad": "27",
+        "marketValue": "€120.85m",
         "leagueID": "L1"
       },
   
@@ -1004,8 +995,8 @@
         "id": "86",
         "name": "SV Werder Bremen",
         "country": "Germany",
-        "squad": "25",
-        "marketValue": "€89.90m",
+        "squad": "26",
+        "marketValue": "€94.70m",
         "leagueID": "L1"
       },
   
@@ -1014,7 +1005,7 @@
         "name": "VfL Bochum",
         "country": "Germany",
         "squad": "29",
-        "marketValue": "€57.20m",
+        "marketValue": "€57.50m",
         "leagueID": "L1"
       },
   
@@ -1022,8 +1013,8 @@
         "id": "89",
         "name": "1.FC Union Berlin",
         "country": "Germany",
-        "squad": "26",
-        "marketValue": "€159.15m",
+        "squad": "25",
+        "marketValue": "€149.95m",
         "leagueID": "L1"
       },
   
@@ -1031,8 +1022,8 @@
         "id": "39",
         "name": "1.FSV Mainz 05",
         "country": "Germany",
-        "squad": "26",
-        "marketValue": "€104.65m",
+        "squad": "27",
+        "marketValue": "€109.65m",
         "leagueID": "L1"
       },
   
@@ -1040,8 +1031,8 @@
         "id": "3",
         "name": "1.FC Köln",
         "country": "Germany",
-        "squad": "31",
-        "marketValue": "€95.70m",
+        "squad": "29",
+        "marketValue": "€93.70m",
         "leagueID": "L1"
       },
   
@@ -1049,10 +1040,10 @@
         "id": "105",
         "name": "SV Darmstadt 98",
         "country": "Germany",
-        "squad": "28",
-        "marketValue": "€38.75m",
+        "squad": "31",
+        "marketValue": "€42.65m",
         "leagueID": "L1"
       }
   ],
-  "updatedAt": "2024-01-17T00:34:27.403689"
+  "updatedAt": "2024-02-17T16:00:58.179235"
 }
