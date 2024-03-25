@@ -1,3 +1,3 @@
 --criação do banco
 
-create database projeto_football_manager
+create database projeto_football_scouting

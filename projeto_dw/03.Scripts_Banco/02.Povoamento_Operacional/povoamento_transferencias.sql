@@ -18,7 +18,7 @@ begin
 		origin VARCHAR(100),
 		destiny VARCHAR(100),
 		season VARCHAR(50),
-		idPlayer INT,
+		IdPlayer INT,
 		idClub INT
 	)
 end
