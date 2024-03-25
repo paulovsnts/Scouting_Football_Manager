@@ -1,6 +1,6 @@
 {
     "results": [
-      {
+    {
         "id": "69400",
         "name": "Weverton",
         "dateOfBirth": "Dec 13, 1987",
@@ -3486,7 +3486,7 @@
         "foot": "right",
         "position": "Goalkeeper",
         "marketValue": "€6.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "42205",
@@ -3497,7 +3497,7 @@
         "foot": "right",
         "position": "Goalkeeper",
         "marketValue": "€5.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "70580",
@@ -3508,7 +3508,7 @@
         "foot": "right",
         "position": "Goalkeeper",
         "marketValue": "€350k",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "315853",
@@ -3519,7 +3519,7 @@
         "foot": "left",
         "position": "Centre-Back",
         "marketValue": "€70.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "353366",
@@ -3530,7 +3530,7 @@
         "foot": "right",
         "position": "Centre-Back",
         "marketValue": "€50.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "441986",
@@ -3541,7 +3541,7 @@
         "foot": "right",
         "position": "Centre-Back",
         "marketValue": "€15.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "111196",
@@ -3552,7 +3552,8 @@
         "foot": "right",
         "position": "Centre-Back",
         "marketValue": "€8.00m",
-        "idClub": "281"    },
+        "idClub": "46"    
+    },
     {
         "id": "131075",
         "name": "Francesco Acerbi",
@@ -3562,7 +3563,7 @@
         "foot": "left",
         "position": "Centre-Back",
         "marketValue": "€4.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "198116",
@@ -3573,7 +3574,7 @@
         "foot": "left",
         "position": "Left-Back",
         "marketValue": "€50.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "54906",
@@ -3584,7 +3585,7 @@
         "foot": "right",
         "position": "Right-Back",
         "marketValue": "€4.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "126414",
@@ -3595,7 +3596,7 @@
         "foot": "right",
         "position": "Defensive Midfield",
         "marketValue": "€40.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "543771",
@@ -3606,7 +3607,7 @@
         "foot": "right",
         "position": "Defensive Midfield",
         "marketValue": "€16.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "255942",
@@ -3617,7 +3618,7 @@
         "foot": "right",
         "position": "Central Midfield",
         "marketValue": "€75.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "394300",
@@ -3628,7 +3629,7 @@
         "foot": "right",
         "position": "Central Midfield",
         "marketValue": "€30.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "55735",
@@ -3639,7 +3640,7 @@
         "foot": "both",
         "position": "Central Midfield",
         "marketValue": "€6.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "182932",
@@ -3650,7 +3651,7 @@
         "foot": "right",
         "position": "Central Midfield",
         "marketValue": "€5.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "216179",
@@ -3661,7 +3662,7 @@
         "foot": "right",
         "position": "Central Midfield",
         "marketValue": "€4.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "321528",
@@ -3672,7 +3673,7 @@
         "foot": "right",
         "position": "Right Midfield",
         "marketValue": "€27.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "638793",
@@ -3683,7 +3684,7 @@
         "foot": "right",
         "position": "Right Midfield",
         "marketValue": "€8.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "91970",
@@ -3694,7 +3695,7 @@
         "foot": "right",
         "position": "Right Midfield",
         "marketValue": "€1.50m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "585982",
@@ -3705,7 +3706,7 @@
         "foot": "left",
         "position": "Left Midfield",
         "marketValue": "€20.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "406625",
@@ -3716,7 +3717,7 @@
         "foot": "right",
         "position": "Centre-Forward",
         "marketValue": "€110.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "318528",
@@ -3727,7 +3728,7 @@
         "foot": "right",
         "position": "Centre-Forward",
         "marketValue": "€60.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "41384",
@@ -3738,7 +3739,7 @@
         "foot": "both",
         "position": "Centre-Forward",
         "marketValue": "€5.00m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "40433",
@@ -3749,7 +3750,7 @@
         "foot": "right",
         "position": "Centre-Forward",
         "marketValue": "€2.50m",
-        "idClub": "281"
+        "idClub": "46"
     },
     {
         "id": "550829",
