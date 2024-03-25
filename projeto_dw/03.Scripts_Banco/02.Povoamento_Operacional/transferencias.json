@@ -1,425 +1,425 @@
 {
     "results": [
-      {
-        "id": "1975102",
-        "fee": "€500k",
-        "date": "Jan 1, 2018",
-        "from": "Atlético-PR",
-        "to": "Palmeiras",
-        "season": "17/18",
-        "IdPlayer": "69400",
-        "idClub": "1023"
-      },
-      {
-        "id": "719776",
-        "fee": "free transfer",
-        "date": "May 31, 2012",
-        "from": "Portuguesa",
-        "to": "Atlético-PR",
-        "season": "11/12",
-        "IdPlayer": "17259",
-        "idClub": "1023"
-      },
-      {
-        "id": "2511036",
-        "fee": "€2.00m",
-        "date": "Jul 1, 2020",
-        "from": "AC Milan",
-        "to": "Palmeiras",
-        "season": "20/21",
-        "IdPlayer": "215390",
-        "idClub": "1023"
-      },
-      {
-        "id": "2208080",
-        "fee": "€0.00k",
-        "date": "Jun 30, 2020",
-        "from": "Palmeiras",
-        "to": "AC Milan",
-        "season": "19/20",
-        "IdPlayer": "215390",
-        "idClub": "1023"
-      },
-      {
-        "id": "2366477",
-        "fee": "€15.00m",
-        "date": "Jan 12, 2019",
-        "from": "Cruzeiro",
-        "to": "Flamengo",
-        "season": "18/19",
-        "IdPlayer": "248410",
-        "idClub": "614"
-      },
-      {
-        "id": "1177412",
-        "fee": "€4.00m",
-        "date": "Jan 19, 2015",
-        "from": "Defensor SC",
-        "to": "Cruzeiro",
-        "season": "14/15",
-        "IdPlayer": "248410",
-        "idClub": "614"
-      },
-      {
-        "id": "2776280",       
-        "fee": "€17.50m",
-        "date": "Jan 31, 2020",
-        "from": "Inter",
-        "to": "Flamengo",
-        "season": "19/20",
-        "IdPlayer": "244275",
-        "idClub": "614"
-      },
-      {
-        "id": "1586468",
-        "fee": "€29.50m",
-        "date": "Aug 31, 2016",
-        "from": "Santos",
-        "to": "Inter",
-        "season": "16/17",
-        "IdPlayer": "244275",
-        "idClub": "614"
-      },
-      {
-        "id": "4214931",
-        "fee": "€0.00k",
-        "date": "Jan 9, 2023",
-        "from": "Zenit S-Pb",
-        "to": "Corinthians",
-        "season": "22/23",
-        "IdPlayer": "489893",
-        "idClub": "199"
-      },
-      {
-        "id": "3720174",
-        "fee": "€25.00m",
-        "date": "Jan 31, 2022",
-        "from": "Internacional",
-        "to": "Zenit S-Pb",
-        "season": "21/22",
-        "IdPlayer": "489893",
-        "idClub": "199"
-      },
-      {
-        "id": "4294193",
-        "fee": "€0.00k",
-        "date": "Feb 24, 2023",
-        "from": "Olympiacos",
-        "to": "Fluminense",
-        "season": "22/23",
-        "IdPlayer": "44501",
-        "idClub": "2462"
-      },
-      {
-        "id": "4054319",
-        "fee": "€0.00k",
-        "date": "Sep 1, 2022",
-        "from": "Real Madrid",
-        "to": "Olympiacos",
-        "season": "22/23",
-        "IdPlayer": "44501",
-        "idClub": "2462"
-      },
-      {
-        "id": "108542",
-        "fee": "€6.50m",
-        "date": "Jan 1, 2007",
-        "from": "Fluminense",
-        "to": "Real Madrid",
-        "season": "06/07",
-        "IdPlayer": "44501",
-        "idClub": "2462"
-      },
-      {
-        "id": "4542738",
-        "fee": "€0.00k",
-        "date": "Jul 29, 2023",
-        "from": "Without Club",
-        "to": "São Paulo",
-        "season": "23/24",
-        "IdPlayer": "88103",
-        "idClub": "585"
-      },
-      {
-        "id": "3050420",
-        "fee": "€0.00k",
-        "date": "Sep 7, 2020",
-        "from": "Real Madrid",
-        "to": "Everton",
-        "season": "20/21",
-        "IdPlayer": "88103",
-        "idClub": "585"
-      },
-      {
-        "id": "1830952",
-        "fee": "€0.00k",
-        "date": "Jun 30, 2019",
-        "from": "Bayern Munich",
-        "to": "Real Madrid",
-        "season": "18/19",
-        "IdPlayer": "88103",
-        "idClub": "585"
-      },
-      {
-        "id": "3227515",
-        "fee": "€0.00k",
-        "date": "Feb 10, 2021",
-        "from": "SH Port",
-        "to": "Atlético-MG",
-        "season": "20/21",
-        "IdPlayer": "80562",
-        "idClub": "330"
-      },
-      {
-        "id": "1517450",
-        "fee": "€56.00m",
-        "date": "Jul 1, 2016",
-        "from": "Zenit S-Pb",
-        "to": "SH SIPG",
-        "season": "16/17",
-        "IdPlayer": "80562",
-        "idClub": "330"
-      },
-      {
-        "id": "779812",
-        "fee": "€40.00m",
-        "date": "Sep 3, 2012",
-        "from": "FC Porto",
-        "to": "Zenit S-Pb",
-        "season": "12/13",
-        "IdPlayer": "80562",
-        "idClub": "330"
-      },
-      {
-        "id": "1088039",
-        "fee": "€25.00m",
-        "date": "Jul 17, 2014",
-        "from": "Bayern Munich",
-        "to": "Real Madrid",
-        "season": "14/15",
-        "IdPlayer": "31909",
-        "idClub": "418"
-      },
-      {
-        "id": "4426378",
-        "fee": "€103.00m",
-        "date": "Jul 1, 2023",
-        "from": "Bor. Dortmund",
-        "to": "Real Madrid",
-        "season": "23/24",
-        "IdPlayer": "581678",
-        "idClub": "418"
-      },
-      {
-        "id": "2978207",
-        "fee": "€30.15m",
-        "date": "Jul 23, 2020",
-        "from": "Birmingham",
-        "to": "Bor. Dortmund",
-        "season": "20/21",
-        "IdPlayer": "581678",
-        "idClub": "418"
-      },
-      {
-        "id": "1772257",
-        "fee": "€45.00m",
-        "date": "Jul 12, 2018",
-        "from": "Flamengo",
-        "to": "Real Madrid",
-        "season": "18/19",
-        "IdPlayer": "371998",
-        "idClub": "418"
-      },
-      {
-        "id": "4624732",
-        "fee": "€0.00k",
-        "date": "Sep 1, 2023",
-        "from": "Man City",
-        "to": "Barcelona",
-        "season": "23/24",
-        "IdPlayer": "182712",
-        "idClub": "131"
-      },
-      {
-        "id": "4251751",
-        "fee": "€0.00k",
-        "date": "Jun 30, 2023",
-        "from": "Bayern Munich",
-        "to": "Man City",
-        "season": "22/23",
-        "IdPlayer": "182712",
-        "idClub": "131"
-      },
-      {
-        "id": "2595717",
-        "fee": "€65.00m",
-        "date": "Aug 7, 2019",
-        "from": "Juventus",
-        "to": "Man City",
-        "season": "19/20",
-        "IdPlayer": "182712",
-        "idClub": "131"
-      },
-      {
-        "id": "4793946",
-        "fee": "€20.00m", 
-        "date": "Jan 1, 2024",
-        "from": "São Paulo",
-        "to": "Paris SG",
-        "season": "23/24",
-        "IdPlayer": "872171",
-        "idClub": "583"        
-      },
-      {
-        "id": "4578344",
-        "fee": "€50.00m",
-        "date": "Aug 12, 2023",
-        "from": "Barcelona",
-        "to": "Paris SG",
-        "season": "23/24",
-        "IdPlayer": "288230",
-        "idClub": "583"
-      },
-      {
-        "id": "1893861",
-        "fee": "€135.00m",
-        "date": "Aug 25, 2017",
-        "from": "Bor. Dortmund",
-        "to": "Barcelona",
-        "season": "17/18",
-        "IdPlayer": "288230",
-        "idClub": "583"
-      },
-      {
-        "id": "2185129",
-        "fee": "€62.50m",
-        "date": "Jul 19, 2018",
-        "from": "AS Roma",
-        "to": "Liverpool",
-        "season": "18/19",
-        "IdPlayer": "105470",
-        "idClub": "31"
-      },
-      {
-        "id": "1491541",
-        "fee": "€8.00m",
-        "date": "Jul 6, 2016",
-        "from": "Internacional",
-        "to": "AS Roma",
-        "season": "16/17",
-        "IdPlayer": "105470",
-        "idClub": "31"
-      },
-      {
-        "id": "1803721",
-        "fee": "€42.00m",
-        "date": "Jul 1, 2017",
-        "from": "AS Roma",
-        "to": "Liverpool",
-        "season": "17/18",
-        "IdPlayer": "148455",
-        "idClub": "31"
-      },
-      {
-        "id": "1354685",
-        "fee": "€15.00m",
-        "date": "Jul 1, 2016",
-        "from": "Chelsea",
-        "to": "AS Roma",
-        "season": "16/17",
-        "IdPlayer": "148455",
-        "idClub": "31"
-      },
-      {
-        "id": "1332477",
-        "fee": "€76.00m",
-        "date": "Aug 30, 2015",
-        "from": "VfL Wolfsburg",
-        "to": "Man City",
-        "season": "15/16",
-        "IdPlayer": "88755",
-        "idClub": "281"
-      },
-      {
-        "id": "1002114",
-        "fee": "€22.00m",
-        "date": "Jan 18, 2014",
-        "from": "Chelsea",
-        "to": "VfL Wolfsburg",
-        "season": "13/14",
-        "IdPlayer": "88755",
-        "idClub": "281"
-      },
-      {
-        "id": "4617868",
-        "fee": "€30.00m",
-        "date": "Aug 30, 2023",
-        "from": "Bayern Munich",
-        "to": "Inter",
-        "season": "23/24",
-        "IdPlayer": "353366",
-        "idClub": "46"
-      },
-      {
-        "id": "2361742",
-        "fee": "€35.00m",
-        "date": "Jul 1, 2019",
-        "from": "VfB Stuttgart",
-        "to": "Bayern Munich",
-        "season": "19/20",
-        "IdPlayer": "353366",
-        "idClub": "46"
-      },
-      {
-        "id": "1585457",
-        "fee": "€5.00m",
-        "date": "Aug 30, 2016",
-        "from": "LOSC Lille",
-        "to": "VfB Stuttgart",
-        "season": "16/17",
-        "IdPlayer": "353366",
-        "idClub": "46"
-      },
-      {
-        "id": "4483523",
-        "fee": "€15.00m",
-        "date": "Jul 6, 2023",
-        "from": "Arsenal",
-        "to": "B. Leverkusen",
-        "season": "23/24",
-        "IdPlayer": "111455",
-        "idClub": "15"
-      },
-      {
-        "id": "1489516",
-        "fee": "€45.00m",
-        "date": "Jul 1, 2016",
-        "from": "Bor. M'gladbach",
-        "to": "Arsenal",
-        "season": "16/17",
-        "IdPlayer": "111455",
-        "idClub": "15"
-      },
-      {
-        "id": "718530",
-        "fee": "€8.50m",
-        "date": "Jul 1, 2012",
-        "from": "FC Basel",
-        "to": "Bor. M'gladbach",
-        "season": "12/13",
-        "IdPlayer": "111455",
-        "idClub": "15"
-      },
-      {
-        "id": "4578228",
-        "fee": "€95.00m",        
-        "date": "Aug 12, 2023",
-        "from": "Tottenham",
-        "to": "Bayern Munich",
-        "season": "23/24",
-        "IdPlayer": "132098",
-        "idClub": "27"
-      }
+        {
+            "id": "1975102",
+            "fee": "€500k",
+            "date": "Jan 1, 2018",
+            "origin": "Atlético-PR",
+            "destiny": "Palmeiras",
+            "season": "17/18",
+            "IdPlayer": "69400",
+            "idClub": "1023"
+        },
+        {
+            "id": "719776",
+            "fee": "free transfer",
+            "date": "May 31, 2012",
+            "origin": "Portuguesa",
+            "destiny": "Atlético-PR",
+            "season": "11/12",
+            "IdPlayer": "17259",
+            "idClub": "1023"
+        },
+        {
+            "id": "2511036",
+            "fee": "€2.00m",
+            "date": "Jul 1, 2020",
+            "origin": "AC Milan",
+            "destiny": "Palmeiras",
+            "season": "20/21",
+            "IdPlayer": "215390",
+            "idClub": "1023"
+        },
+        {
+            "id": "2208080",
+            "fee": "€0.00k",
+            "date": "Jun 30, 2020",
+            "origin": "Palmeiras",
+            "destiny": "AC Milan",
+            "season": "19/20",
+            "IdPlayer": "215390",
+            "idClub": "1023"
+        },
+        {
+            "id": "2366477",
+            "fee": "€15.00m",
+            "date": "Jan 12, 2019",
+            "origin": "Cruzeiro",
+            "destiny": "Flamengo",
+            "season": "18/19",
+            "IdPlayer": "248410",
+            "idClub": "614"
+        },
+        {
+            "id": "1177412",
+            "fee": "€4.00m",
+            "date": "Jan 19, 2015",
+            "origin": "Defensor SC",
+            "destiny": "Cruzeiro",
+            "season": "14/15",
+            "IdPlayer": "248410",
+            "idClub": "614"
+        },
+        {
+            "id": "2776280",
+            "fee": "€17.50m",
+            "date": "Jan 31, 2020",
+            "origin": "Inter",
+            "destiny": "Flamengo",
+            "season": "19/20",
+            "IdPlayer": "244275",
+            "idClub": "614"
+        },
+        {
+            "id": "1586468",
+            "fee": "€29.50m",
+            "date": "Aug 31, 2016",
+            "origin": "Santos",
+            "destiny": "Inter",
+            "season": "16/17",
+            "IdPlayer": "244275",
+            "idClub": "614"
+        },
+        {
+            "id": "4214931",
+            "fee": "€0.00k",
+            "date": "Jan 9, 2023",
+            "origin": "Zenit S-Pb",
+            "destiny": "Corinthians",
+            "season": "22/23",
+            "IdPlayer": "489893",
+            "idClub": "199"
+        },
+        {
+            "id": "3720174",
+            "fee": "€25.00m",
+            "date": "Jan 31, 2022",
+            "origin": "Internacional",
+            "destiny": "Zenit S-Pb",
+            "season": "21/22",
+            "IdPlayer": "489893",
+            "idClub": "199"
+        },
+        {
+            "id": "4294193",
+            "fee": "€0.00k",
+            "date": "Feb 24, 2023",
+            "origin": "Olympiacos",
+            "destiny": "Fluminense",
+            "season": "22/23",
+            "IdPlayer": "44501",
+            "idClub": "2462"
+        },
+        {
+            "id": "4054319",
+            "fee": "€0.00k",
+            "date": "Sep 1, 2022",
+            "origin": "Real Madrid",
+            "destiny": "Olympiacos",
+            "season": "22/23",
+            "IdPlayer": "44501",
+            "idClub": "2462"
+        },
+        {
+            "id": "108542",
+            "fee": "€6.50m",
+            "date": "Jan 1, 2007",
+            "origin": "Fluminense",
+            "destiny": "Real Madrid",
+            "season": "06/07",
+            "IdPlayer": "44501",
+            "idClub": "2462"
+        },
+        {
+            "id": "4542738",
+            "fee": "€0.00k",
+            "date": "Jul 29, 2023",
+            "origin": "Without Club",
+            "destiny": "São Paulo",
+            "season": "23/24",
+            "IdPlayer": "88103",
+            "idClub": "585"
+        },
+        {
+            "id": "3050420",
+            "fee": "€0.00k",
+            "date": "Sep 7, 2020",
+            "origin": "Real Madrid",
+            "destiny": "Everton",
+            "season": "20/21",
+            "IdPlayer": "88103",
+            "idClub": "585"
+        },
+        {
+            "id": "1830952",
+            "fee": "€0.00k",
+            "date": "Jun 30, 2019",
+            "origin": "Bayern Munich",
+            "destiny": "Real Madrid",
+            "season": "18/19",
+            "IdPlayer": "88103",
+            "idClub": "585"
+        },
+        {
+            "id": "3227515",
+            "fee": "€0.00k",
+            "date": "Feb 10, 2021",
+            "origin": "SH Port",
+            "destiny": "Atlético-MG",
+            "season": "20/21",
+            "IdPlayer": "80562",
+            "idClub": "330"
+        },
+        {
+            "id": "1517450",
+            "fee": "€56.00m",
+            "date": "Jul 1, 2016",
+            "origin": "Zenit S-Pb",
+            "destiny": "SH SIPG",
+            "season": "16/17",
+            "IdPlayer": "80562",
+            "idClub": "330"
+        },
+        {
+            "id": "779812",
+            "fee": "€40.00m",
+            "date": "Sep 3, 2012",
+            "origin": "FC Porto",
+            "destiny": "Zenit S-Pb",
+            "season": "12/13",
+            "IdPlayer": "80562",
+            "idClub": "330"
+        },
+        {
+            "id": "1088039",
+            "fee": "€25.00m",
+            "date": "Jul 17, 2014",
+            "origin": "Bayern Munich",
+            "destiny": "Real Madrid",
+            "season": "14/15",
+            "IdPlayer": "31909",
+            "idClub": "418"
+        },
+        {
+            "id": "4426378",
+            "fee": "€103.00m",
+            "date": "Jul 1, 2023",
+            "origin": "Bor. Dortmund",
+            "destiny": "Real Madrid",
+            "season": "23/24",
+            "IdPlayer": "581678",
+            "idClub": "418"
+        },
+        {
+            "id": "2978207",
+            "fee": "€30.15m",
+            "date": "Jul 23, 2020",
+            "origin": "Birmingham",
+            "destiny": "Bor. Dortmund",
+            "season": "20/21",
+            "IdPlayer": "581678",
+            "idClub": "418"
+        },
+        {
+            "id": "1772257",
+            "fee": "€45.00m",
+            "date": "Jul 12, 2018",
+            "origin": "Flamengo",
+            "destiny": "Real Madrid",
+            "season": "18/19",
+            "IdPlayer": "371998",
+            "idClub": "418"
+        },
+        {
+            "id": "4624732",
+            "fee": "€0.00k",
+            "date": "Sep 1, 2023",
+            "origin": "Man City",
+            "destiny": "Barcelona",
+            "season": "23/24",
+            "IdPlayer": "182712",
+            "idClub": "131"
+        },
+        {
+            "id": "4251751",
+            "fee": "€0.00k",
+            "date": "Jun 30, 2023",
+            "origin": "Bayern Munich",
+            "destiny": "Man City",
+            "season": "22/23",
+            "IdPlayer": "182712",
+            "idClub": "131"
+        },
+        {
+            "id": "2595717",
+            "fee": "€65.00m",
+            "date": "Aug 7, 2019",
+            "origin": "Juventus",
+            "destiny": "Man City",
+            "season": "19/20",
+            "IdPlayer": "182712",
+            "idClub": "131"
+        },
+        {
+            "id": "4793946",
+            "fee": "€20.00m", 
+            "date": "Jan 1, 2024",
+            "origin": "São Paulo",
+            "destiny": "Paris SG",
+            "season": "23/24",
+            "IdPlayer": "872171",
+            "idClub": "583"        
+        },
+        {
+            "id": "4578344",
+            "fee": "€50.00m",
+            "date": "Aug 12, 2023",
+            "origin": "Barcelona",
+            "destiny": "Paris SG",
+            "season": "23/24",
+            "IdPlayer": "288230",
+            "idClub": "583"
+        },
+        {
+            "id": "1893861",
+            "fee": "€135.00m",
+            "date": "Aug 25, 2017",
+            "origin": "Bor. Dortmund",
+            "destiny": "Barcelona",
+            "season": "17/18",
+            "IdPlayer": "288230",
+            "idClub": "583"
+        },
+        {
+            "id": "2185129",
+            "fee": "€62.50m",
+            "date": "Jul 19, 2018",
+            "origin": "AS Roma",
+            "destiny": "Liverpool",
+            "season": "18/19",
+            "IdPlayer": "105470",
+            "idClub": "31"
+        },
+        {
+            "id": "1491541",
+            "fee": "€8.00m",
+            "date": "Jul 6, 2016",
+            "origin": "Internacional",
+            "destiny": "AS Roma",
+            "season": "16/17",
+            "IdPlayer": "105470",
+            "idClub": "31"
+        },
+        {
+            "id": "1803721",
+            "fee": "€42.00m",
+            "date": "Jul 1, 2017",
+            "origin": "AS Roma",
+            "destiny": "Liverpool",
+            "season": "17/18",
+            "IdPlayer": "148455",
+            "idClub": "31"
+        },
+        {
+            "id": "1354685",
+            "fee": "€15.00m",
+            "date": "Jul 1, 2016",
+            "origin": "Chelsea",
+            "destiny": "AS Roma",
+            "season": "16/17",
+            "IdPlayer": "148455",
+            "idClub": "31"
+        },
+        {
+            "id": "1332477",
+            "fee": "€76.00m",
+            "date": "Aug 30, 2015",
+            "origin": "VfL Wolfsburg",
+            "destiny": "Man City",
+            "season": "15/16",
+            "IdPlayer": "88755",
+            "idClub": "281"
+        },
+        {
+            "id": "1002114",
+            "fee": "€22.00m",
+            "date": "Jan 18, 2014",
+            "origin": "Chelsea",
+            "destiny": "VfL Wolfsburg",
+            "season": "13/14",
+            "IdPlayer": "88755",
+            "idClub": "281"
+        },
+        {
+            "id": "4617868",
+            "fee": "€30.00m",
+            "date": "Aug 30, 2023",
+            "origin": "Bayern Munich",
+            "destiny": "Inter",
+            "season": "23/24",
+            "IdPlayer": "353366",
+            "idClub": "46"
+        },
+        {
+            "id": "2361742",
+            "fee": "€35.00m",
+            "date": "Jul 1, 2019",
+            "origin": "VfB Stuttgart",
+            "destiny": "Bayern Munich",
+            "season": "19/20",
+            "IdPlayer": "353366",
+            "idClub": "46"
+        },
+        {
+            "id": "1585457",
+            "fee": "€5.00m",
+            "date": "Aug 30, 2016",
+            "origin": "LOSC Lille",
+            "destiny": "VfB Stuttgart",
+            "season": "16/17",
+            "IdPlayer": "353366",
+            "idClub": "46"
+        },
+        {
+            "id": "4483523",
+            "fee": "€15.00m",
+            "date": "Jul 6, 2023",
+            "origin": "Arsenal",
+            "destiny": "B. Leverkusen",
+            "season": "23/24",
+            "IdPlayer": "111455",
+            "idClub": "15"
+        },
+        {
+            "id": "1489516",
+            "fee": "€45.00m",
+            "date": "Jul 1, 2016",
+            "origin": "Bor. M'gladbach",
+            "destiny": "Arsenal",
+            "season": "16/17",
+            "IdPlayer": "111455",
+            "idClub": "15"
+        },
+        {
+            "id": "718530",
+            "fee": "€8.50m",
+            "date": "Jul 1, 2012",
+            "origin": "FC Basel",
+            "destiny": "Bor. M'gladbach",
+            "season": "12/13",
+            "IdPlayer": "111455",
+            "idClub": "15"
+        },
+        {
+            "id": "4578228",
+            "fee": "€95.00m",        
+            "date": "Aug 12, 2023",
+            "origin": "Tottenham",
+            "destiny": "Bayern Munich",
+            "season": "23/24",
+            "IdPlayer": "132098",
+            "idClub": "27"
+        }
     ],
     "updatedAt": "2024-03-24T23:52:16.974841"
-  }
+}
