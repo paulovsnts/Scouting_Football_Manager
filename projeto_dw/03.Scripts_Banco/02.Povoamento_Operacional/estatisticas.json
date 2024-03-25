@@ -1,0 +1,187 @@
+{
+  "results": [
+    {
+      "cod_stats": "01",
+      "gols": "0",
+      "assistencias": "0",
+      "jogos": "7",
+      "minutos_jogados": "578",
+      "cartoes_amarelos":  "1",
+      "cartoes_vermelhos": "0",
+      "defesas":  "0",
+      "temporada": "2024",
+      "idPlayer": "215390",
+      "idClub": "1023"
+    },
+
+    {
+      "cod_stats": "02",
+      "gols": "3",
+      "assistencias": "5",
+      "jogos": "18",
+      "minutos_jogados": "1430",
+      "cartoes_amarelos": "2",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "2024",
+      "idPlayer": "248410",
+      "idClub": "614"
+    
+    },
+
+    {
+      "cod_stats": "03",
+      "gols": "0",
+      "assistencias": "0",
+      "jogos": "12",
+      "minutos_jogados": "547",
+      "cartoes_amarelos": "1",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "2024",
+      "idPlayer": "44501",
+      "idClub": "2462"
+    },
+
+    {
+      "cod_stats": "04",
+      "gols": "6",
+      "assistencias": "0",
+      "jogos": "12",
+      "minutos_jogados": "891",
+      "cartoes_amarelos": "1",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "2024",
+      "idPlayer": "489893",
+      "idClub": "199"
+    },
+
+    {
+      "cod_stats": "05",
+      "gols": "1",
+      "assistencias": "1",
+      "jogos": "4",
+      "minutos_jogados": "74",
+      "cartoes_amarelos": "2",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "2024",
+      "idPlayer": "88103",
+      "idClub": "585"
+    },
+
+    {
+      "cod_stats": "06",
+      "gols": "21",
+      "assistencias": "13",
+      "jogos": "32",
+      "minutos_jogados": "2303",
+      "cartoes_amarelos": "2",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "148455",
+      "idClub": "31"
+    },
+
+    {
+      "cod_stats": "07",
+      "gols": "3",
+      "assistencias": "14",
+      "jogos": "14",
+      "minutos_jogados": "757",
+      "cartoes_amarelos": "1",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "88755",
+      "idClub": "281"
+    },
+
+    {
+      "cod_stats": "08",
+      "gols": "21",
+      "assistencias": "13",
+      "jogos": "33",
+      "minutos_jogados": "2736",
+      "cartoes_amarelos": "10",
+      "cartoes_vermelhos": "1",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "581678",
+      "idClub": "418"
+    },
+
+    {
+      "cod_stats": "09",
+      "gols": "1",
+      "assistencias": "12",
+      "jogos": "32",
+      "minutos_jogados": "2104",
+      "cartoes_amarelos": "4",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "288230",
+      "idClub": "583"
+    },
+
+    {
+      "cod_stats": "10",
+      "gols": "0",
+      "assistencias": "3",
+      "jogos": "26",
+      "minutos_jogados": "1871",
+      "cartoes_amarelos": "7",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "353366",
+      "idClub": "46"
+    },
+
+    {
+      "cod_stats": "11",
+      "gols": "5",
+      "assistencias": "2",
+      "jogos": "8",
+      "minutos_jogados": "720",
+      "cartoes_amarelos": "3",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "2024",
+      "idPlayer": "80562",
+      "idClub": "330"
+    },
+
+    {
+      "cod_stats": "12",
+      "gols": "1",
+      "assistencias": "1",
+      "jogos": "36",
+      "minutos_jogados": "3020",
+      "cartoes_amarelos": "5",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "111455",
+      "idClub": "15"
+    
+    },
+
+    {
+      "cod_stats": "01",
+      "gols": "37",
+      "assistencias": "12",
+      "jogos": "35",
+      "minutos_jogados": "3039",
+      "cartoes_amarelos": "2",
+      "cartoes_vermelhos": "0",
+      "defesas": "0",
+      "temporada": "23/24",
+      "idPlayer": "132098",
+      "idClub": "27"
+    }
+  ]
+}
