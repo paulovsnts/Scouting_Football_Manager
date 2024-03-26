@@ -28,6 +28,36 @@ begin
     DEALLOCATE c_contratacoes
 end
 
+CREATE OR ALTER PROCEDURE sp_preencher_contratacao_com_liga
+AS
+BEGIN
+    DECLARE @cod_time INT
+    DECLARE @cod_liga VARCHAR(10)
+
+    DECLARE c_times CURSOR FOR
+    SELECT T.COD_TIME, L.COD_LIGA
+    FROM DIM_TIME T
+    INNER JOIN DIM_LIGA L 
+	ON (T.COD_LIGA = L.COD_LIGA)
+
+    OPEN c_times
+    FETCH NEXT FROM c_times INTO @cod_time, @cod_liga
+
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+        UPDATE TB_AUX_CONTRATACAO 
+        SET COD_LIGA = @cod_liga
+		WHERE COD_TIME = @cod_time
+
+        FETCH NEXT FROM c_times INTO @cod_time, @cod_liga
+    END
+
+    CLOSE c_times
+    DEALLOCATE c_times
+END
+
+exec sp_preencher_contratacao_com_liga
+
 -- Teste
 
 exec sp_oltp_transferencia '20240325'
