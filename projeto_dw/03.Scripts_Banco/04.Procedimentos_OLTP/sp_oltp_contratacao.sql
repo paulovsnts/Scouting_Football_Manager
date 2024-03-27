@@ -14,6 +14,9 @@ begin
     SELECT COD_CONTRATACAO, VALOR, DT_CONTRATACAO, TIME_ORIGEM, TIME_DESTINO, TEMPORADA, COD_JOGADOR, COD_TIME
     FROM TB_CONTRATACAO
 
+	DELETE FROM TB_AUX_CONTRATACAO
+	WHERE DATA_CARGA = @data_carga
+
     OPEN c_contratacoes
     FETCH NEXT FROM c_contratacoes INTO @cod_contratacao, @valor, @dt_contratacao, @time_origem, @time_destino, @temporada, @cod_jogador, @cod_time
     WHILE (@@FETCH_STATUS = 0)

@@ -15,6 +15,9 @@ begin
     SELECT COD_JOGADOR, NOME, DT_NASCIMENTO, ALTURA, NACIONALIDADE, PE_BOM, POSICAO, VALOR_DE_MERCADO, COD_TIME, COD_STATS
     FROM TB_JOGADOR
 
+	DELETE FROM TB_AUX_JOGADOR
+	WHERE DATA_CARGA = @data_carga
+
     OPEN c_jogadores
     FETCH NEXT FROM c_jogadores INTO @cod_jogador, @nome, @dt_nascimento, @altura, @nacionalidade, @pe_bom, @posicao, @valor_de_mercado, @cod_time, @cod_stats
     WHILE (@@FETCH_STATUS = 0)

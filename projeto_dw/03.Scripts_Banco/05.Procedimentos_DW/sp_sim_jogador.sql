@@ -5,16 +5,9 @@ use projeto_football_scouting
 CREATE OR ALTER PROCEDURE sp_dim_jogador (@data_carga DATETIME)
 AS
 BEGIN
-    DECLARE @cod_jogador INT
-    DECLARE @nome VARCHAR(100)
-    DECLARE @dt_nascimento DATE
-    DECLARE @dt_nascimento_datetime DATETIME 
-    DECLARE @altura DECIMAL(10,2)
-    DECLARE @nacionalidade VARCHAR(50)
-    DECLARE @pe_bom VARCHAR(20)
-    DECLARE @posicao VARCHAR(50)
-    DECLARE @valor_de_mercado DECIMAL(18,2)
-    DECLARE @cod_time INT
+    DECLARE @cod_jogador INT, @nome VARCHAR(100), @dt_nascimento DATE, @dt_nascimento_datetime DATETIME,
+			@altura DECIMAL(10,2), @nacionalidade VARCHAR(50), @pe_bom VARCHAR(20), @posicao VARCHAR(50),
+			@valor_de_mercado DECIMAL(18,2), @cod_time INT
 
     DECLARE c_jogadores CURSOR FOR
     SELECT COD_JOGADOR, NOME, DT_NASCIMENTO, ALTURA, NACIONALIDADE, PE_BOM, POSICAO, VALOR_DE_MERCADO, COD_TIME

@@ -13,7 +13,10 @@ begin
     SELECT COD_TIME, NOME_TIME, PAIS, NR_JOGADORES, VALOR_MERCADO, COD_LIGA
     FROM TB_TIME
 
-    OPEN c_times
+	DELETE FROM TB_AUX_TIME
+    WHERE DATA_CARGA = @data_carga
+
+	OPEN c_times
     FETCH NEXT FROM c_times INTO @cod_time, @nome_time, @pais, @nr_jogadores, @valor_mercado, @cod_liga
     WHILE (@@FETCH_STATUS = 0)
     BEGIN

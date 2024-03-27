@@ -14,6 +14,9 @@ begin
     SELECT COD_LIGA, LIGA, PAIS, NR_CLUBS, VALOR_MERCADO, MEDIA_VALOR_MERCADO, CONFERENCIA
     FROM TB_LIGA
 
+	DELETE FROM TB_AUX_LIGA
+	WHERE DATA_CARGA = @data_carga
+
     OPEN c_ligas
     FETCH NEXT FROM c_ligas INTO @cod_liga, @liga, @pais, @nr_clubs, @valor_mercado, @media_valor_mercado, @conferencia
     WHILE (@@FETCH_STATUS = 0)

@@ -5,13 +5,9 @@ use projeto_football_scouting
 CREATE OR ALTER PROCEDURE sp_dim_liga (@data_carga DATETIME)
 AS
 BEGIN
-    DECLARE @cod_liga VARCHAR(10)
-    DECLARE @liga VARCHAR(50)
-    DECLARE @pais VARCHAR(50)
-    DECLARE @nr_clubs INT
-    DECLARE @valor_mercado VARCHAR(50)
-    DECLARE @media_valor_mercado DECIMAL(18,2)
-    DECLARE @conferencia VARCHAR(50)
+    DECLARE @cod_liga VARCHAR(10), @liga VARCHAR(50), @pais VARCHAR(50),
+		    @nr_clubs INT, @valor_mercado VARCHAR(50), @media_valor_mercado DECIMAL(18,2),
+		    @conferencia VARCHAR(50)
 
     DECLARE c_ligas CURSOR FOR
     SELECT COD_LIGA, LIGA, PAIS, NR_CLUBS, VALOR_MERCADO, MEDIA_VALOR_MERCADO, CONFERENCIA

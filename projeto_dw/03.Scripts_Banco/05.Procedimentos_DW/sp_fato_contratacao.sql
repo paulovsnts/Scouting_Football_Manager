@@ -5,21 +5,10 @@ use projeto_football_scouting
 CREATE OR ALTER PROCEDURE sp_fato_contratacao (@data_carga DATETIME)
 AS
 BEGIN
-    DECLARE @id_time INT
-    DECLARE @id_liga INT
-    DECLARE @id_jogador INT
-    DECLARE @id_tempo BIGINT
-    DECLARE @cod_contratacao INT
-    DECLARE @valor DECIMAL(18,2)
-	DECLARE @dt_contratacao DATE
-    DECLARE @dt_contratacao_datetime DATETIME
-    DECLARE @time_origem VARCHAR(100)
-    DECLARE @time_destino VARCHAR(100)
-    DECLARE @temporada VARCHAR(50)
-    DECLARE @quantidade INT
-	DECLARE @cod_liga VARCHAR(10)
-	DECLARE @cod_time int
-	DECLARE @cod_jogador int
+    DECLARE @id_time INT, @id_liga INT, @id_jogador INT, @id_tempo BIGINT,
+			@cod_contratacao INT, @valor DECIMAL(18,2), @dt_contratacao DATE,
+			@dt_contratacao_datetime DATETIME, @time_origem VARCHAR(100), @time_destino VARCHAR(100),
+			@temporada VARCHAR(50), @quantidade INT, @cod_liga VARCHAR(10), @cod_time inT, @cod_jogador int
 
     SET @quantidade = 1
 
@@ -37,9 +26,9 @@ BEGIN
 
 		SET @dt_contratacao_datetime = CONVERT(DATETIME, @dt_contratacao)
 
-        SET @id_time = (SELECT ID_TIME FROM MAPEAMENTO_TIME WHERE COD_TIME = @cod_time)
-        SET @id_liga = (SELECT ID_LIGA FROM MAPEAMENTO_LIGA WHERE COD_LIGA = @cod_liga)
-        SET @id_jogador = (SELECT ID_JOGADOR FROM MAPEAMENTO_JOGADOR WHERE COD_JOGADOR = @cod_jogador)
+        SET @id_time = (SELECT ID_TIME FROM DIM_TIME WHERE COD_TIME = @cod_time)
+        SET @id_liga = (SELECT ID_LIGA FROM DIM_LIGA WHERE COD_LIGA = @cod_liga)
+        SET @id_jogador = (SELECT ID_JOGADOR FROM DIM_JOGADOR WHERE COD_JOGADOR = @cod_jogador)
         SET @id_tempo = (SELECT ID_TEMPO FROM DIM_TEMPO WHERE DATA = @dt_contratacao)
 
         IF EXISTS (SELECT 1 FROM FATO_CONTRATACAO WHERE COD_CONTRATACAO = @cod_contratacao)
