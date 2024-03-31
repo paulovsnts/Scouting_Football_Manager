@@ -31,6 +31,22 @@ BEGIN
         SET @id_jogador = (SELECT ID_JOGADOR FROM DIM_JOGADOR WHERE COD_JOGADOR = @cod_jogador)
         SET @id_tempo = (SELECT ID_TEMPO FROM DIM_TEMPO WHERE DATA = @dt_contratacao)
 
+		IF NOT EXISTS (SELECT 1 FROM DIM_TEMPO WHERE DATA = @dt_contratacao_datetime)
+		BEGIN
+			INSERT INTO TB_VIO_TRANSFERENCIA_TIME(DATA_CARGA, COD_JOGADOR, DATA_CONTRATACAO, DT_ERRO, VIOLACAO)
+			VALUES (@data_carga, @cod_jogador, @dt_contratacao_datetime, GETDATE(), 'Data de contratação inválida na dimensão tempo')
+			FETCH NEXT FROM c_contratacoes INTO @cod_contratacao, @valor, @dt_contratacao, @time_origem, @time_destino, @temporada, @cod_jogador, @cod_time, @cod_liga
+			CONTINUE
+		END
+
+		IF NOT EXISTS (SELECT 1 FROM DIM_JOGADOR WHERE COD_JOGADOR = @cod_jogador)
+		BEGIN
+			INSERT INTO TB_VIO_TRANSFERENCIA_TIME(DATA_CARGA, COD_JOGADOR, DATA_CONTRATACAO, DT_ERRO, VIOLACAO)
+			VALUES (@data_carga, @cod_jogador, @dt_contratacao_datetime, GETDATE(), 'Código de jogador inválido na dimensão jogador')
+			FETCH NEXT FROM c_contratacoes INTO @cod_contratacao, @valor, @dt_contratacao, @time_origem, @time_destino, @temporada, @cod_jogador, @cod_time, @cod_liga
+			CONTINUE
+		END
+
         IF EXISTS (SELECT 1 FROM FATO_CONTRATACAO WHERE COD_CONTRATACAO = @cod_contratacao)
         BEGIN
             UPDATE FATO_CONTRATACAO
