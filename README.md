@@ -18,13 +18,44 @@ Para usufruir do sistema, é necessário apenas ter o SQL Server instalado e uma
 Para que tudo ocorra bem, basta seguir os seguintes passos:
 
 ```
-Clonar o repositório em máquina local ou baixar o arquivo zip do mesmo.
+1.Clonar o repositório em máquina local ou baixar o arquivo zip do mesmo.
+git clone https://github.com/paulovsnts/Scouting_Football_Manage
 ```
 
-E repita:
+```
+2.Após a clonagem do repositório, abra o SQL Server Management e navegue até o diretório: 'projeto_dw/03.Scripts_Banco/01.DDL'
+```
 
 ```
-Até finalizar
+3.Execute em ordem os scripts:
+- criacao_banco.sql >> operacional.sql >> dimensional.sql >> staging.sql
+```
+
+```
+4.Navegue até o diretório: 'projeto_dw/03.Scripts_Banco/02.Povoamento_Operacional'
+  Nesse diretório, os arquivos json não podem ser excluídos. Eles são os arquivos onde os dados estão guardados, prontos para serem carregados.
+```
+
+```
+5.Execute os scripts de povoamento, na ordem de: ligas >> times >> jogadores >> transferencias.
+```
+
+```
+6.Navegue até a próxima subpasta e execute o script de povoamento da dimensão tempo.
+```
+
+```
+7.Continue navegando para a próxima hierarquia de pastas e execute os scripts dos povoamentos OLTP.
+  Siga a mesma sequência: ligas >> times >> jogadores >> transferências.
+  Após isso, a área de staging estará devidamente preenchida.
+```
+
+```
+8.Os dados são de um banco de dados externo, então é necessário fazer o tratamento. Execute o script ETL.sql localizado no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW/ETL.sql'.
+```
+
+```
+8.Os dados são de um banco de dados externo, então é necessário fazer o tratamento. Execute o script ETL.sql localizado no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW/ETL.sql'.
 ```
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
