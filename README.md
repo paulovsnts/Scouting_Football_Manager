@@ -55,46 +55,38 @@ git clone https://github.com/paulovsnts/Scouting_Football_Manage
 ```
 
 ```
-8.Os dados são de um banco de dados externo, então é necessário fazer o tratamento. Execute o script ETL.sql localizado no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW/ETL.sql'.
+9.Há um script solto: violacoes.sql'. Ele deve ser executado para garantir que os dados na tabela de fato sejam válidos, e caso haja violação, não será inserido, mas irá ser registrado na tabela de violações.
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+```
+10.Após executar o ETL e criar a tabela de violação, os dados das tabelas auxiliares da área de staging estarão tratadas. Dessa forma, o próximo passo é povoar o ambiente dimensional. Faça isso navegando no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW'. Execute os scripts na ordem: sp_dim_liga.sql >> sp_dim_time.sql >> sp_dim_jogador.sql >> sp_fato_contratacao. 
+```
+
+```
+10.Finalmente, após tudo isso, é possível criar o agregado, com granularidade de total gasto em contratações por time no ano. O script é o agregados.sql.
+```
+
+```
+11.Por último, é possível realizar as verificações de alguns indicadores propostos pelo estudo de caso (este presente no diretório 'projeto_dw/01.Estudo_Caso'. Basta executar o script 'projeto_dw/03.Scripts_Banco/06.Verificacao/verificacao.sql'.
+```
+
+Para um bom aproveitamento e entendimento do projeto, não esqueça de ler o estudo de caso (disponível em word e pdf) e ver o projeto do banco, disponibilizado em imagens.
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
+Você pode testar o datawarehouse por meio de consultas sql, fazendo verificações que atendam a indicadores (do estudo de caso ou propostos por você mesmo). 
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Para o projeto da disciplina, essa base de dados é usada para gerar relatórios que atendam aos indicadores do estudo de caso. Assim, o modo mais prático de implantar esse datawarehouse em algo real é usando ferramentas de BI (Business Inteligence). No caso do repositório, disponibilizo meu relatório feito no Power BI.
+
+[Link]
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+* [SQL Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) - Ferramenta usadas para desenvolver os scripts e realizar as consultas 
+* [Power BI](https://powerbi.microsoft.com/pt-br/desktop/) - Ferramenta de BI para relatórios
+* [Transfermarkt API](https://github.com/felipeall/transfermarkt-api) - API usada para retirar os dados 
 
 ## 📌 Versão
 
