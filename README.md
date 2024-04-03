@@ -88,30 +88,18 @@ Para o projeto da disciplina, essa base de dados é usada para gerar relatórios
 * [Power BI](https://powerbi.microsoft.com/pt-br/desktop/) - Ferramenta de BI para relatórios
 * [Transfermarkt API](https://github.com/felipeall/transfermarkt-api) - API usada para retirar os dados 
 
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+* **Paulo Vítor dos Santos** - *Desenvolvedor* - [Paulo](https://github.com/paulovsnts)
+* **Natan Vinícius Santos Pereira** - *Desenvolvedor* - [Natan](https://github.com/NatanVini7)
+* **André Vinicius Rodrigues Passos Nascimento** - *Orientador* - [André](https://github.com/andreviniciusnascimento)
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/paulovsnts/Scouting_Football_Manager/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+* Esse é o meu primeiro projeto na área de Banco de Dados. Agradeço à equipe que colaborou para que ele fosse desenvolvido 📢;
+* Aos interessados na área e no projeto, podem (e devem) comentar, sugerir e contribuir com o projeto. Mande um email para paulovsnts47@gmail.com 🍺;
+* Minhas áreas de interesse são banco de dados, business inteligence, inteligência artificial, machine learning e ciência de dados. Estou ansioso por aprender cada vez mais sobre essas áreas, e desenvolver novos projetos 🫂;
