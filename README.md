@@ -19,21 +19,23 @@ Para que tudo ocorra bem, basta seguir os seguintes passos:
 
 ```
 1.Clonar o repositório em máquina local ou baixar o arquivo zip do mesmo.
-git clone https://github.com/paulovsnts/Scouting_Football_Manage
+  git clone https://github.com/paulovsnts/Scouting_Football_Manage
 ```
 
 ```
-2.Após a clonagem do repositório, abra o SQL Server Management e navegue até o diretório: 'projeto_dw/03.Scripts_Banco/01.DDL'
+2.Após a clonagem do repositório, abra o SQL Server Management e navegue até o diretório:
+  'projeto_dw/03.Scripts_Banco/01.DDL'
 ```
 
 ```
 3.Execute em ordem os scripts:
-- criacao_banco.sql >> operacional.sql >> dimensional.sql >> staging.sql
+  criacao_banco.sql >> operacional.sql >> dimensional.sql >> staging.sql
 ```
 
 ```
 4.Navegue até o diretório: 'projeto_dw/03.Scripts_Banco/02.Povoamento_Operacional'
-  Nesse diretório, os arquivos json não podem ser excluídos. Eles são os arquivos onde os dados estão guardados, prontos para serem carregados.
+  Nesse diretório, os arquivos json não podem ser excluídos.
+  Eles são os arquivos onde os dados estão guardados, prontos para serem carregados.
 ```
 
 ```
@@ -51,23 +53,29 @@ git clone https://github.com/paulovsnts/Scouting_Football_Manage
 ```
 
 ```
-8.Os dados são de um banco de dados externo, então é necessário fazer o tratamento. Execute o script ETL.sql localizado no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW/ETL.sql'.
+8.Os dados são de um banco de dados externo, então é necessário fazer o tratamento.
+  Execute o script ETL.sql localizado no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW/ETL.sql'.
 ```
 
 ```
-9.Há um script solto: violacoes.sql'. Ele deve ser executado para garantir que os dados na tabela de fato sejam válidos, e caso haja violação, não será inserido, mas irá ser registrado na tabela de violações.
+9.Há um script solto: violacoes.sql'.
+  Ele deve ser executado para garantir que os dados na tabela de fato sejam válidos, e caso haja violação, não será inserido, mas irá ser registrado na tabela de violações.
 ```
 
 ```
-10.Após executar o ETL e criar a tabela de violação, os dados das tabelas auxiliares da área de staging estarão tratadas. Dessa forma, o próximo passo é povoar o ambiente dimensional. Faça isso navegando no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW'. Execute os scripts na ordem: sp_dim_liga.sql >> sp_dim_time.sql >> sp_dim_jogador.sql >> sp_fato_contratacao. 
+10.Após executar o ETL e criar a tabela de violação, os dados das tabelas auxiliares da área de staging estarão tratadas.
+   Dessa forma, o próximo passo é povoar o ambiente dimensional. Faça isso navegando no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW'.
+   Execute os scripts na ordem: sp_dim_liga.sql >> sp_dim_time.sql >> sp_dim_jogador.sql >> sp_fato_contratacao. 
 ```
 
 ```
-10.Finalmente, após tudo isso, é possível criar o agregado, com granularidade de total gasto em contratações por time no ano. O script é o agregados.sql.
+10.Finalmente, após tudo isso, é possível criar o agregado, com granularidade de total gasto em contratações por time no ano.
+   O script é o agregados.sql.
 ```
 
 ```
-11.Por último, é possível realizar as verificações de alguns indicadores propostos pelo estudo de caso (este presente no diretório 'projeto_dw/01.Estudo_Caso'. Basta executar o script 'projeto_dw/03.Scripts_Banco/06.Verificacao/verificacao.sql'.
+11.Por último, é possível realizar as verificações de alguns indicadores propostos pelo estudo de caso (este presente no diretório 'projeto_dw/01.Estudo_Caso'.
+   Basta executar o script 'projeto_dw/03.Scripts_Banco/06.Verificacao/verificacao.sql'.
 ```
 
 Para um bom aproveitamento e entendimento do projeto, não esqueça de ler o estudo de caso (disponível em word e pdf) e ver o projeto do banco, disponibilizado em imagens.
