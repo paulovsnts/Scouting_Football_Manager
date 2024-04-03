@@ -59,22 +59,25 @@ Para que tudo ocorra bem, basta seguir os seguintes passos:
 
 ```
 9.Há um script solto: violacoes.sql'.
-  Ele deve ser executado para garantir que os dados na tabela de fato sejam válidos, e caso haja violação, não será inserido, mas irá ser registrado na tabela de violações.
+  Ele deve ser executado para garantir que os dados na tabela de fato sejam válidos.
+  Caso haja violação, não será inserido, mas irá ser registrado na tabela de violações.
 ```
 
 ```
 10.Após executar o ETL e criar a tabela de violação, os dados das tabelas auxiliares da área de staging estarão tratadas.
-   Dessa forma, o próximo passo é povoar o ambiente dimensional. Faça isso navegando no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW'.
+   Dessa forma, o próximo passo é povoar o ambiente dimensional.
+   Faça isso navegando no diretório 'projeto_dw/03.Scripts_Banco/05.Procedimentos_DW'.
    Execute os scripts na ordem: sp_dim_liga.sql >> sp_dim_time.sql >> sp_dim_jogador.sql >> sp_fato_contratacao. 
 ```
 
 ```
-10.Finalmente, após tudo isso, é possível criar o agregado, com granularidade de total gasto em contratações por time no ano.
+11.Finalmente, após tudo isso, é possível criar o agregado, com granularidade de total gasto em contratações por time no ano.
    O script é o agregados.sql.
 ```
 
 ```
-11.Por último, é possível realizar as verificações de alguns indicadores propostos pelo estudo de caso (este presente no diretório 'projeto_dw/01.Estudo_Caso'.
+12.Por último, é possível realizar as verificações de alguns indicadores propostos pelo estudo de caso.
+   Este se localiza no diretório 'projeto_dw/01.Estudo_Caso'.
    Basta executar o script 'projeto_dw/03.Scripts_Banco/06.Verificacao/verificacao.sql'.
 ```
 
