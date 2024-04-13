@@ -31,6 +31,7 @@ begin
     DEALLOCATE c_contratacoes
 end
 
+--Executar esse procedimento apenas depois de preencher a dimnesão das ligas. A coluna foi adicionada depois da tabela já pronta, então fizemos um procedimento para adicionar os códigos após isso.
 CREATE OR ALTER PROCEDURE sp_preencher_contratacao_com_liga
 AS
 BEGIN
