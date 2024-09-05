@@ -91,7 +91,7 @@ Você pode testar o datawarehouse por meio de consultas sql, fazendo verificaç�
 
 Para o projeto da disciplina, essa base de dados é usada para gerar relatórios que atendam aos indicadores do estudo de caso. Assim, o modo mais prático de implantar esse datawarehouse em algo real é usando ferramentas de BI (Business Inteligence). No caso do repositório, disponibilizo meu relatório feito no Power BI.
 
-[Link]
+[[Relatório](https://app.powerbi.com/view?r=eyJrIjoiYzMzZGU1ODQtYzc0MC00OWVhLTgzMDgtMTRmMTYzM2Y4MzFlIiwidCI6IjUwOWFhYjIzLTA1NzMtNGEyNC1hZjU4LTRkOWFkOTI0NDY3MyJ9)]
 
 ## 🛠️ Construído com
 
